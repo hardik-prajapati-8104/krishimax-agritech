@@ -1,5 +1,5 @@
  <!-- Preloader Start -->
-        <div id="preloader" class="preloader">
+        <!-- <div id="preloader" class="preloader">
             <div class="animation-preloader">
                 <div class="spinner">                
                 </div>
@@ -38,7 +38,66 @@
                     </div>
                 </div>
             </div>
+        </div> -->
+
+        
+        <div id="preloader" class="preloader">
+            <div class="animation-preloader">
+                <!-- <div class="spinner"></div> -->
+
+                <div class="loader-logo">
+                    <img src="assets/img/logo/Krishimax Agritech Green Logo.png" alt="Loading..." height="auto" width="500px">
+                </div>
+
+                <!-- <p class="text-center">Loading</p> -->
+            </div>
+
+            <div class="loader">
+                <div class="row">
+                    <div class="col-3 loader-section section-left">
+                        <div class="bg"></div>
+                    </div>
+                    <div class="col-3 loader-section section-left">
+                        <div class="bg"></div>
+                    </div>
+                    <div class="col-3 loader-section section-right">
+                        <div class="bg"></div>
+                    </div>
+                    <div class="col-3 loader-section section-right">
+                        <div class="bg"></div>
+                    </div>
+                </div>
+            </div>
         </div>
+
+        <style>
+            
+            .loader-logo {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 20px auto 10px;
+            }
+
+            .loader-logo img {
+                max-width: 180px;
+                width: 100%;
+                height: auto;
+                max-height: 90px;
+                object-fit: contain;
+                display: block;
+            }
+
+            /* Responsive */
+            @media (max-width: 576px) {
+                .loader-logo img {
+                    max-width: 140px;
+                    max-height: 70px;
+                }
+            }
+
+        </style>
+
 
         <!-- Back To Top Start -->
         <button id="back-top" class="back-to-top">

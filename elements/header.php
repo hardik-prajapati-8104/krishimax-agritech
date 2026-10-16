@@ -9,7 +9,7 @@
         <meta name="author" content="modinatheme">
         <meta name="description" content="Agron - Agriculture & Organic Farm HTML Template">
         <!-- ======== Page title ============ -->
-        <title>Agron - Agriculture & Organic Farm HTML Template</title>
+        <title>Krishimax Agritech | Home Page </title>
         <!--<< Favicon >>-->
         <link rel="shortcut icon" href="assets/img/favicon.svg">
         <!--<< Bootstrap min.css >>-->
