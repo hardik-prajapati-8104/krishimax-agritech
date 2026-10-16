@@ -470,7 +470,7 @@
         </section>
 
         <!-- Service Section Start -->
-        <section class="service-section-4 section-padding fix">
+        <section class="service-section-4 section-padding fix" id="products">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="wow fadeInUp"><img src="assets/img/sub-title.svg" alt="img">Our Products</span>
@@ -493,11 +493,11 @@
                                         <i class="flaticon-manure"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="contact.php">Poshanam</a></h4>
+                                        <h4><a href="product-details.php?product=poshanam">Poshanam</a></h4>
                                         <p>
                                             Soil Revitalizer Organic Fertilizer. Dosage: 10 kg / acre.
                                         </p>
-                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="product-details.php?product=poshanam" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -512,11 +512,11 @@
                                         <i class="flaticon-leaf-1"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="contact.php">Plantivo</a></h4>
+                                        <h4><a href="product-details.php?product=plantivo">Plantivo</a></h4>
                                         <p>
                                             Fungicide – Tebuconazole 50% + Trifloxystrobin 25% WG. Dosage: 80-160 gm / acre.
                                         </p>
-                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="product-details.php?product=plantivo" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -531,11 +531,11 @@
                                         <i class="flaticon-crop"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="contact.php">Cormax Power</a></h4>
+                                        <h4><a href="product-details.php?product=cormax-power">Cormax Power</a></h4>
                                         <p>
                                             Insecticide – Chlorantraniliprole 47.85% W/W SC. Dosage: 25-30 ml / acre.
                                         </p>
-                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="product-details.php?product=cormax-power" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -550,11 +550,11 @@
                                         <i class="flaticon-plant"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="contact.php">D-Morph 50</a></h4>
+                                        <h4><a href="product-details.php?product=d-morph-50">D-Morph 50</a></h4>
                                         <p>
                                             Fungicide – Dimethomorph 50% WP. Dosage: 300-400 gm / acre.
                                         </p>
-                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="product-details.php?product=d-morph-50" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -569,11 +569,11 @@
                                         <i class="flaticon-agriculture"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="contact.php">Magneto</a></h4>
+                                        <h4><a href="product-details.php?product=magneto">Magneto</a></h4>
                                         <p>
                                             Insecticide – Cyantraniliprole 7.3% + Diafenthiuron 36.4% SC. Dosage: 250 ml / acre.
                                         </p>
-                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="product-details.php?product=magneto" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -588,11 +588,11 @@
                                         <i class="flaticon-food-safety"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="contact.php">Lockdown</a></h4>
+                                        <h4><a href="product-details.php?product=lockdown">Lockdown</a></h4>
                                         <p>
                                             Insecticide – Emamectin Benzoate 1.90% EC. Dosage: 180-200 ml / acre.
                                         </p>
-                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="product-details.php?product=lockdown" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -835,7 +835,7 @@
         <div class="brand-section">
             <div class="container">
                 <div class="top-text text-center wow fadeInUp">
-                    <p>Krishimax Agritech is used by over 60,000+ companies across the world</p>
+                    <p>Agron is used by over 60,000+ companies across the world</p>
                 </div>
                 <div class="swiper brand-slide">
                     <div class="swiper-wrapper">

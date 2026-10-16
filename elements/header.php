@@ -6,10 +6,10 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="author" content="KRISHIMAX AGRITECH">
-        <meta name="description" content="Krishimax Agritech - Agriculture & Organic Farming">
+        <meta name="author" content="modinatheme">
+        <meta name="description" content="Agron - Agriculture & Organic Farm HTML Template">
         <!-- ======== Page title ============ -->
-        <title>Krishimax Agritech | Home Page </title>
+        <title><?php echo isset($pageTitle) ? htmlspecialchars($pageTitle, ENT_QUOTES, 'UTF-8') : 'Krishimax Agritech | Home Page'; ?></title>
         <!--<< Favicon >>-->
         <link rel="shortcut icon" href="assets/img/favicon.svg">
         <!--<< Bootstrap min.css >>-->
@@ -30,6 +30,13 @@
         <link rel="stylesheet" href="assets/css/nice-select.css">
         <!--<< Main.css >>-->
         <link rel="stylesheet" href="assets/css/main.css">
+        <?php 
+        if (!empty($extraCss)) {
+            foreach ((array) $extraCss as $css) {
+                echo '<link rel="stylesheet" href="' . htmlspecialchars($css, ENT_QUOTES, 'UTF-8') . '">' . "\n        "; 
+            } 
+        } 
+        ?>
     </head>
     <body>
 

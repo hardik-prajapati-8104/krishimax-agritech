@@ -473,10 +473,10 @@
         <section class="service-section-4 section-padding fix">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="wow fadeInUp"><img src="assets/img/sub-title.svg" alt="img">Our Services</span>
-                    <h2 class="text-anim">Services We Offer</h2>
+                    <span class="wow fadeInUp"><img src="assets/img/sub-title.svg" alt="img">Our Products</span>
+                    <h2 class="text-anim">Our Featured Products</h2>
                     <p class="mt-2 wow fadeInUp" data-wow-delay=".2s">
-                        Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia <br> dolor sit amet, consectetur, adipisci velit, sed quia non.
+                        Krishimax Agritech offers crop protection and soil nutrition solutions <br> designed for healthier crops and better harvests.
                     </p>
                 </div>
             </div>
@@ -486,18 +486,18 @@
                         <div class="swiper-slide">
                             <div class="service-box-items-4">
                                 <div class="thumb">
-                                    <img src="assets/img/home-4/service/service-01.jpg" alt="img">
+                                    <img src="assets/img/products/poshanam.jpg" alt="Poshanam - Krishimax Agritech">
                                 </div>
                                 <div class="service-content-area">
                                     <div class="icon">
-                                        <i class="flaticon-tomato"></i>
+                                        <i class="flaticon-manure"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="service-details.html">Agriculture Products</a></h4>
+                                        <h4><a href="contact.php">Poshanam</a></h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                                            Soil Revitalizer Organic Fertilizer. Dosage: 10 kg / acre.
                                         </p>
-                                        <a href="service-details.html" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -505,18 +505,18 @@
                         <div class="swiper-slide">
                             <div class="service-box-items-4">
                                 <div class="thumb">
-                                    <img src="assets/img/home-4/service/service-02.jpg" alt="img">
+                                    <img src="assets/img/products/plantivo.jpg" alt="Plantivo - Krishimax Agritech">
                                 </div>
                                 <div class="service-content-area">
                                     <div class="icon">
-                                        <i class="flaticon-carrots"></i>
+                                        <i class="flaticon-leaf-1"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="service-details.html">Agriculture Tomato</a></h4>
+                                        <h4><a href="contact.php">Plantivo</a></h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                                            Fungicide – Tebuconazole 50% + Trifloxystrobin 25% WG. Dosage: 80-160 gm / acre.
                                         </p>
-                                        <a href="service-details.html" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -524,18 +524,18 @@
                         <div class="swiper-slide">
                             <div class="service-box-items-4">
                                 <div class="thumb">
-                                    <img src="assets/img/home-4/service/service-03.jpg" alt="img">
+                                    <img src="assets/img/products/cormax-power.jpg" alt="Cormax Power - Krishimax Agritech">
                                 </div>
                                 <div class="service-content-area">
                                     <div class="icon">
-                                        <i class="flaticon-apple"></i>
+                                        <i class="flaticon-crop"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="service-details.html">Agriculture Fruits</a></h4>
+                                        <h4><a href="contact.php">Cormax Power</a></h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                                            Insecticide – Chlorantraniliprole 47.85% W/W SC. Dosage: 25-30 ml / acre.
                                         </p>
-                                        <a href="service-details.html" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -543,18 +543,18 @@
                         <div class="swiper-slide">
                             <div class="service-box-items-4">
                                 <div class="thumb">
-                                    <img src="assets/img/home-4/service/service-04.jpg" alt="img">
+                                    <img src="assets/img/products/d-morph-50.jpg" alt="D-Morph 50 - Krishimax Agritech">
                                 </div>
                                 <div class="service-content-area">
                                     <div class="icon">
-                                        <i class="flaticon-dairy-products"></i>
+                                        <i class="flaticon-plant"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="service-details.html">Dairy Products</a></h4>
+                                        <h4><a href="contact.php">D-Morph 50</a></h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                                            Fungicide – Dimethomorph 50% WP. Dosage: 300-400 gm / acre.
                                         </p>
-                                        <a href="service-details.html" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -562,18 +562,37 @@
                         <div class="swiper-slide">
                             <div class="service-box-items-4">
                                 <div class="thumb">
-                                    <img src="assets/img/home-4/service/service-05.jpg" alt="img">
+                                    <img src="assets/img/products/magneto.jpg" alt="Magneto - Krishimax Agritech">
                                 </div>
                                 <div class="service-content-area">
                                     <div class="icon">
-                                        <i class="flaticon-dairy-products"></i>
+                                        <i class="flaticon-agriculture"></i>
                                     </div>
                                     <div class="content">
-                                        <h4><a href="service-details.html">Dairy Products</a></h4>
+                                        <h4><a href="contact.php">Magneto</a></h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                                            Insecticide – Cyantraniliprole 7.3% + Diafenthiuron 36.4% SC. Dosage: 250 ml / acre.
                                         </p>
-                                        <a href="service-details.html" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-box-items-4">
+                                <div class="thumb">
+                                    <img src="assets/img/products/lockdown.jpg" alt="Lockdown - Krishimax Agritech">
+                                </div>
+                                <div class="service-content-area">
+                                    <div class="icon">
+                                        <i class="flaticon-food-safety"></i>
+                                    </div>
+                                    <div class="content">
+                                        <h4><a href="contact.php">Lockdown</a></h4>
+                                        <p>
+                                            Insecticide – Emamectin Benzoate 1.90% EC. Dosage: 180-200 ml / acre.
+                                        </p>
+                                        <a href="contact.php" class="link-btn">More Details <i class="far fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>

@@ -1,0 +1,67 @@
+/* Krishimax Agritech - Product details page */
+.pd-section { background: #fff; }
+.pd-gallery { position: sticky; top: 120px; background: linear-gradient(160deg, #f3f8f1 0%, #ffffff 60%); border: 1px solid #e4ede1; border-radius: 28px; padding: 30px 30px 22px; text-align: center; box-shadow: 0 20px 50px rgba(10,40,3,.07); }
+@media (max-width: 991px) { .pd-gallery { position: static; } }
+.pd-badge { position: absolute; top: 22px; left: 22px; z-index: 2; background: var(--theme-color); color: #fff; font-size: 13px; font-weight: 800; letter-spacing: .4px; padding: 7px 18px; border-radius: 40px; }
+.pd-fungicide .pd-badge { background: #2f7d32; }
+.pd-insecticide .pd-badge { background: #1f3a68; }
+.pd-fertilizer .pd-badge { background: #b08a00; }
+.pd-image img { width: 100%; max-height: 520px; object-fit: contain; border-radius: 18px; }
+.pd-trust { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 18px; margin-top: 18px; padding-top: 16px; border-top: 1px dashed #d5e3d1; font-size: 14px; font-weight: 700; color: var(--header); }
+.pd-trust i { color: var(--theme-color); margin-right: 4px; }
+
+.pd-brand { display: inline-block; font-size: 14px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; color: var(--theme-color); }
+.pd-title { font-size: 46px; font-weight: 800; color: var(--header); margin: 6px 0 4px; }
+@media (max-width: 575px) { .pd-title { font-size: 34px; } }
+.pd-tagline { font-size: 18px; font-weight: 700; color: var(--theme-color); margin-bottom: 14px; }
+.pd-desc { font-size: 16px; line-height: 1.8; }
+
+.pd-specs { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: 26px 0; }
+@media (max-width: 575px) { .pd-specs { grid-template-columns: 1fr; } }
+.pd-spec { display: flex; align-items: center; gap: 14px; background: #f7faf6; border: 1px solid #e4ede1; border-radius: 16px; padding: 16px 18px; }
+.pd-spec > i { flex: 0 0 52px; height: 52px; line-height: 52px; text-align: center; font-size: 24px; color: #fff; background: var(--theme-color); border-radius: 50%; }
+.pd-spec small { display: block; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; color: #7a8591; }
+.pd-spec strong { display: block; font-size: 16px; color: var(--header); line-height: 1.4; }
+
+.pd-packs h5 { font-size: 18px; font-weight: 800; color: var(--header); margin-bottom: 12px; }
+.pd-packs ul { display: flex; flex-wrap: wrap; gap: 10px; padding: 0; margin: 0; list-style: none; }
+.pd-packs li { border: 2px solid var(--theme-color); color: var(--theme-color); font-weight: 800; padding: 8px 22px; border-radius: 40px; background: #fff; transition: all .3s; }
+.pd-packs li:hover { background: var(--theme-color); color: #fff; }
+
+.pd-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 30px; }
+.pd-btn-outline { display: inline-block; height: 58px; line-height: 54px; padding: 0 34px; border: 2px solid var(--header); border-radius: 82px; font-weight: 800; color: var(--header); transition: all .3s; }
+.pd-btn-outline i { margin-right: 6px; }
+.pd-btn-outline:hover { background: var(--header); color: #fff; }
+
+.pd-tabs { margin-top: 70px; }
+.pd-tabs .nav-tabs { border-bottom: 2px solid #e4ede1; gap: 6px; flex-wrap: wrap; }
+.pd-tabs .nav-link { border: 0; border-bottom: 3px solid transparent; margin-bottom: -2px; font-size: 17px; font-weight: 800; color: #6b7682; padding: 14px 26px; background: none; }
+.pd-tabs .nav-link.active { color: var(--theme-color); border-bottom-color: var(--theme-color); background: none; }
+.pd-tabs .tab-content { background: #f7faf6; border-radius: 0 0 20px 20px; padding: 36px; }
+@media (max-width: 575px) { .pd-tabs .tab-content { padding: 22px; } }
+.pd-tabs h3 { font-size: 26px; font-weight: 800; color: var(--header); margin-bottom: 14px; }
+.pd-check { list-style: none; padding: 0; margin: 18px 0 0; }
+.pd-check li { padding: 7px 0; font-weight: 600; color: var(--header); }
+.pd-check i { color: var(--theme-color); margin-right: 10px; }
+.pd-table { width: 100%; border-collapse: separate; border-spacing: 0; background: #fff; border-radius: 14px; overflow: hidden; border: 1px solid #e4ede1; }
+.pd-table th, .pd-table td { padding: 15px 22px; border-bottom: 1px solid #e9f0e6; }
+.pd-table tr:last-child th, .pd-table tr:last-child td { border-bottom: 0; }
+.pd-table th { width: 32%; background: #eef5ec; color: var(--header); font-weight: 800; }
+
+.pd-related { margin-top: 90px; }
+.pd-card { display: block; background: #fff; border: 1px solid #e4ede1; border-radius: 20px; overflow: hidden; height: 100%; transition: all .35s; }
+.pd-card:hover { transform: translateY(-6px); box-shadow: 0 18px 40px rgba(10,40,3,.12); border-color: var(--theme-color); }
+.pd-card-img { background: linear-gradient(160deg, #f3f8f1, #fff); padding: 16px; height: 230px; text-align: center; }
+.pd-card-img img { height: 100%; width: auto; max-width: 100%; object-fit: contain; }
+.pd-card-body { padding: 16px 20px 20px; }
+.pd-card-body small { font-weight: 800; color: var(--theme-color); text-transform: uppercase; letter-spacing: .6px; font-size: 12px; }
+.pd-card-body h4 { font-size: 20px; font-weight: 800; color: var(--header); margin: 4px 0 8px; }
+.pd-card-body span { font-weight: 800; color: var(--theme-color); font-size: 14px; }
+.pd-card-body span i { transform: rotate(-45deg); display: inline-block; margin-left: 4px; }
+
+.pd-cta { padding: 0 0 90px; background: #fff; }
+.pd-cta-box { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; background: linear-gradient(120deg, var(--header) 0%, #1f5a12 100%); border-radius: 26px; padding: 44px 50px; }
+@media (max-width: 575px) { .pd-cta-box { padding: 32px 24px; } }
+.pd-cta-box h3 { color: #fff; font-size: 30px; font-weight: 800; margin-bottom: 6px; }
+.pd-cta-box p { color: rgba(255,255,255,.8); margin: 0; }
+.pd-cta-box .theme-btn { background: var(--theme-color-2); color: var(--header); }
