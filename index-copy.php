@@ -816,7 +816,7 @@
         <div class="brand-section">
             <div class="container">
                 <div class="top-text text-center wow fadeInUp">
-                    <p>Agron is used by over 60,000+ companies across the world</p>
+                    <p>Krishimax Agritech is used by over 60,000+ companies across the world</p>
                 </div>
                 <div class="swiper brand-slide">
                     <div class="swiper-wrapper">

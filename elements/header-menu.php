@@ -153,7 +153,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Send Email</p>
-                                        <h4><a href="mailto:yordomain@gmial.com">yordomain@gmial.com</a></h4>
+                                        <h4><a href="mailto:krishimax@gmail.com">krishimax@gmail.com</a></h4>
                                     </div>
                                 </li>
                                 <li>

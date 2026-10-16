@@ -89,32 +89,32 @@
                                 <ul class="list-area">
                                     <li>
                                         <a href="service-details.php">
-                                            <i class="far fa-chevron-double-right"></i> Agriculture Foods
+                                            <i class="far fa-chevron-double-right"></i> Crop & Seed Production
                                         </a>
                                     </li>
                                     <li>
                                         <a href="service-details.php">
-                                            <i class="far fa-chevron-double-right"></i> Organic Vegetables
+                                            <i class="far fa-chevron-double-right"></i> Organic Fertilizer
                                         </a>
                                     </li>
                                     <li>
                                         <a href="service-details.php">
-                                            <i class="far fa-chevron-double-right"></i> Pond & Sea Fish
+                                            <i class="far fa-chevron-double-right"></i> Pesticides & Insecticides
                                         </a>
                                     </li>
                                     <li>
                                         <a href="service-details.php">
-                                            <i class="far fa-chevron-double-right"></i> Cow Milk & Meat
+                                            <i class="far fa-chevron-double-right"></i> Irrigation & Watering
                                         </a>
                                     </li>
                                     <li>
                                         <a href="service-details.php">
-                                            <i class="far fa-chevron-double-right"></i> Modern Equipment
+                                            <i class="far fa-chevron-double-right"></i> Fruits & Vegetables
                                         </a>
                                     </li>
                                     <li>
                                         <a href="service-details.php">
-                                            <i class="far fa-chevron-double-right"></i> Eggs & Meat
+                                            <i class="far fa-chevron-double-right"></i> Agricultural Machinery
                                         </a>
                                     </li>
                                 </ul>
@@ -132,7 +132,7 @@
                                         </div>
                                         <div class="content">
                                             <h5>Email us:</h5>
-                                            <p><a href="mailto:agron@gmail.com">agron@gmail.com</a></p>
+                                            <p><a href="mailto:krishimax@gmail.com">krishimax@gmail.com</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -162,7 +162,7 @@
             <div class="footer-bottom">
                 <div class="container">
                     <div class="footer-bottom-wrapper">
-                        <p class="text-1 wow fadeInUp">© 2025 Agron. All Rights Reserved</p>
+                        <p class="text-1 wow fadeInUp">© 2026 Krishimax Agritech. All Rights Reserved</p>
                         <div class="bottom-img wow fadeInUp" data-wow-delay=".4s">
                             <img src="assets/img/home-1/footer-bottom.png" alt="img">
                         </div>

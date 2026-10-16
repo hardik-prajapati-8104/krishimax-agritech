@@ -6,8 +6,8 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="author" content="modinatheme">
-        <meta name="description" content="Agron - Agriculture & Organic Farm HTML Template">
+        <meta name="author" content="KRISHIMAX AGRITECH">
+        <meta name="description" content="Krishimax Agritech - Agriculture & Organic Farming">
         <!-- ======== Page title ============ -->
         <title>Krishimax Agritech | Home Page </title>
         <!--<< Favicon >>-->

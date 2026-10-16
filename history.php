@@ -41,7 +41,7 @@
                             <div class="about-content">
                                 <div class="section-title mb-0">
                                     <span class="wow fadeInUp"><img src="assets/img/sub-title.svg" alt="img">About Our Company</span>
-                                    <h2 class="text-anim">Agron is the Largest Global Organic Farm.</h2>
+                                    <h2 class="text-anim">Krishimax Agritech is the Largest Global Organic Farm.</h2>
                                 </div>
                                 <p class="about-text wow fadeInUp" data-wow-delay=".2s">
                                     Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.
@@ -116,7 +116,7 @@
                     <div class="section-title-area">
                         <div class="section-title">
                             <span class="wow fadeInUp"><img src="assets/img/sub-title.svg" alt="img">Company History</span>
-                            <h2 class="text-anim">Agron is the Largest Global <br> Organic Farm.</h2>
+                            <h2 class="text-anim">Krishimax Agritech is the Largest Global <br> Organic Farm.</h2>
                         </div>
                         <p class="wow fadeInUp" data-wow-delay=".2s">
                             Lorem ipsum dolor sit amet, porro quisquam est, qui dolorem ipsum quia <br class="d-none d-xl-block"> dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <br class="d-none d-xl-block"> modi tempora incidunt.
@@ -235,7 +235,7 @@
         <div class="brand-section section-padding pt-5">
             <div class="container">
                 <div class="top-text text-center wow fadeInUp">
-                    <p>Agron is used by over 60,000+ companies across the world</p>
+                    <p>Krishimax Agritech is used by over 60,000+ companies across the world</p>
                 </div>
                 <div class="swiper brand-slide">
                     <div class="swiper-wrapper">
